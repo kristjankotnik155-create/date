@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1785964518061-7457",
+    "timestamp": "2026-08-05T21:15:18.061Z",
+    "action": "test",
+    "detail": "smoke",
+    "meta": null
+  },
+  {
+    "id": "1785964545563-1720",
+    "timestamp": "2026-08-05T21:15:45.563Z",
+    "action": "page_open",
+    "detail": "Drug dejt?",
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cursor/3.13.25 Chrome/144.0.7559.236 Electron/40.10.3 Safari/537.36",
+      "path": "/"
+    }
+  },
+  {
+    "id": "1785965009932-8308",
+    "timestamp": "2026-08-05T21:23:29.932Z",
+    "action": "click_yes",
+    "detail": "Jaaaaa!",
+    "meta": {
+      "message": "Se vidva po finskem :)"
+    }
+  },
+  {
+    "id": "1785965010112-7003",
+    "timestamp": "2026-08-05T21:23:30.113Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 1
+    }
+  },
+  {
+    "id": "1785965059183-6874",
+    "timestamp": "2026-08-05T21:24:19.183Z",
+    "action": "page_open",
+    "detail": "Drug dejt?",
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "href": "file:///C:/Users/krist/drug-dejt/index.html"
+    }
+  },
+  {
+    "id": "1785965070141-4753",
+    "timestamp": "2026-08-05T21:24:30.142Z",
+    "action": "click_yes",
+    "detail": "Jaaaaa!",
+    "meta": {
+      "message": "Se vidva po finskem :)"
+    }
+  },
+  {
+    "id": "1785965091342-2426",
+    "timestamp": "2026-08-05T21:24:51.342Z",
+    "action": "page_open",
+    "detail": "Drug dejt?",
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "href": "file:///C:/Users/krist/drug-dejt/index.html"
+    }
+  },
+  {
+    "id": "1785965138039-899",
+    "timestamp": "2026-08-05T21:25:38.039Z",
+    "action": "page_open",
+    "detail": "Drug dejt?",
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "href": "file:///C:/Users/krist/drug-dejt/index.html"
+    }
+  },
+  {
+    "id": "1785965169285-7640",
+    "timestamp": "2026-08-05T21:26:09.285Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 1,
+      "buttonWidth": 89,
+      "buttonHeight": 59
+    }
+  },
+  {
+    "id": "1785965169849-9505",
+    "timestamp": "2026-08-05T21:26:09.849Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 2,
+      "buttonWidth": 80,
+      "buttonHeight": 53
+    }
+  },
+  {
+    "id": "1785965170030-7987",
+    "timestamp": "2026-08-05T21:26:10.030Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 3,
+      "buttonWidth": 71,
+      "buttonHeight": 46
+    }
+  },
+  {
+    "id": "1785965170217-5695",
+    "timestamp": "2026-08-05T21:26:10.217Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 4,
+      "buttonWidth": 62,
+      "buttonHeight": 40
+    }
+  },
+  {
+    "id": "1785965170394-5681",
+    "timestamp": "2026-08-05T21:26:10.394Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 5,
+      "buttonWidth": 54,
+      "buttonHeight": 34
+    }
+  },
+  {
+    "id": "1785965170558-9613",
+    "timestamp": "2026-08-05T21:26:10.558Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 6,
+      "buttonWidth": 47,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965170771-5445",
+    "timestamp": "2026-08-05T21:26:10.771Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 7,
+      "buttonWidth": 41,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965171927-4844",
+    "timestamp": "2026-08-05T21:26:11.927Z",
+    "action": "click_yes",
+    "detail": "Jaaaaa!",
+    "meta": {
+      "message": "Se vidva po finskem :)"
+    }
+  },
+  {
+    "id": "1785965336322-687",
+    "timestamp": "2026-08-05T21:28:56.322Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 2,
+      "buttonWidth": 80,
+      "buttonHeight": 53
+    }
+  },
+  {
+    "id": "1785965336325-7062",
+    "timestamp": "2026-08-05T21:28:56.325Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 3,
+      "buttonWidth": 71,
+      "buttonHeight": 46
+    }
+  },
+  {
+    "id": "1785965336329-6534",
+    "timestamp": "2026-08-05T21:28:56.329Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 4,
+      "buttonWidth": 62,
+      "buttonHeight": 40
+    }
+  },
+  {
+    "id": "1785965336333-1950",
+    "timestamp": "2026-08-05T21:28:56.333Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 5,
+      "buttonWidth": 54,
+      "buttonHeight": 34
+    }
+  },
+  {
+    "id": "1785965336335-6181",
+    "timestamp": "2026-08-05T21:28:56.335Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 6,
+      "buttonWidth": 47,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965336341-3733",
+    "timestamp": "2026-08-05T21:28:56.341Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 7,
+      "buttonWidth": 41,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965338398-7663",
+    "timestamp": "2026-08-05T21:28:58.398Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 8,
+      "buttonWidth": 40,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965338568-4290",
+    "timestamp": "2026-08-05T21:28:58.568Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 9,
+      "buttonWidth": 40,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965338748-1942",
+    "timestamp": "2026-08-05T21:28:58.748Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 10,
+      "buttonWidth": 40,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965338969-9087",
+    "timestamp": "2026-08-05T21:28:58.969Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 11,
+      "buttonWidth": 40,
+      "buttonHeight": 33
+    }
+  },
+  {
+    "id": "1785965517559-8941",
+    "timestamp": "2026-08-05T21:31:57.559Z",
+    "action": "page_open",
+    "detail": "Drug dejt?",
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0",
+      "href": "https://kristjankotnik155-create.github.io/date/"
+    }
+  },
+  {
+    "id": "1785965702291-6545",
+    "timestamp": "2026-08-05T21:35:02.291Z",
+    "action": "page_open",
+    "detail": "Drug dejt?",
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "href": "file:///C:/Users/krist/drug-dejt/index.html"
+    }
+  },
+  {
+    "id": "1785965704282-7763",
+    "timestamp": "2026-08-05T21:35:04.282Z",
+    "action": "click_no",
+    "detail": "ne :(",
+    "meta": {
+      "shrinkCount": 1,
+      "buttonWidth": 89,
+      "buttonHeight": 59
+    }
+  },
+  {
+    "id": "1785965711539-3544",
+    "timestamp": "2026-08-05T21:35:11.539Z",
+    "action": "click_yes",
+    "detail": "Jaaaaa!",
+    "meta": {
+      "message": "Se vidva po finskem :)"
+    }
+  },
+  {
+    "id": "1785965737715-6183",
+    "timestamp": "2026-08-05T21:35:37.715Z",
+    "action": "page_open",
+    "detail": "Drug dejt?",
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "href": "file:///C:/Users/krist/drug-dejt/index.html"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "drug-dejt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Drug dejt? — fizol z sopek roz",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
